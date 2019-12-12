@@ -1,0 +1,27 @@
+/*
+Margin went through the Border while Padding her dog named Element
+*/
+
+body
+{
+font-family: 'Roboto', sans-serif, 'Arial';
+}
+
+.wrapper {
+  background-color: rgba(255, 255, 255, .7);
+  background-image: url('../splash/transp.png'), url('../splash/grid.png');
+  overflow: auto;
+  width: 1240px;
+
+    /*Start Leroy challenge opdracht*/
+        margin:0 auto;
+   /*end*/
+
+
+  /* margin: 0 auto;
+  Als je een element met een beperkte breedte zoals dit div-element met de class wrapper
+  wil centreren dan geef je hem en marge 0 auto: vertikaal niets maar horizontaal auto.
+  Dus de linkermarge is auto en de rechtermarge ook. Het element staat dan in het midden.
+  Controleer maar door het browservenster van breedte te laten veranderen.
+  */
+}

@@ -40,12 +40,12 @@
       <!--temp-->
   
     <article id="hText3">
-        <ul>a
+        <ul>
           <li id="li1"><a>Info over de opleiding</a></li>
-          <li><a href="#voorOpleiding" target="_blank">Vooropleiding</a></li>
-          <li><a href="#">Info over MA</a></li>
-          <li><a href="#">Video's</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="#voorOpleiding">Vooropleiding</a></li>
+          <li><a href="#vooropleiding">Info over MA</a></li>
+          <li><a href="#video">Video's</a></li>
+          <li><a href="#contactForm">Contact</a></li>
         </ul>
     </article>
 </section>
@@ -130,7 +130,8 @@
        <figcaption>Eat sleep code repeat</figcaption>
   </figure> <span class="sec">&nbsp;</span>
 </div>
-    
+      <span class="sec">&nbsp;</span>
+<section id="video">      
       <video width="320" height="240" controls>
   <source src="./video/interview/video1.mp4" type="video/ogg">
   Your browser does not support the video tag.
@@ -139,6 +140,8 @@
  <iframe width="450" height="260" src="https://www.youtube.com/embed/fhQfW5mlx8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/145398347" width="520" height="260" frameborder="0" allowfullscreen></iframe>
+  </section> 
+      
       
 <section id="contactForm"> <span class="sec">&nbsp;</span>
     <form action="login.php" method="GET"> 
@@ -150,22 +153,22 @@
             <td><label for="naam">Volledige naam</label></td>   
         </tr>
         <tr>        
-            <td> <input type="text" id="naam" name="naam" placeholder="Vul uw volledige naam in"></td>      
+            <td> <input type="text" id="naam" name="naam" placeholder="Vul volledige naam in"></td>      
         </tr>      
         <tr>
             <td><label for="mail">E-Mail adres</label></td> 
         </tr>
         <tr>
-            <td> <input type="text" id="mail" name="mail" placeholder="Vul uw emailadres in"></td>      
+            <td> <input type="text" id="mail" name="mail" placeholder="Vul emailadres in"></td>      
         </tr>    
         <tr>
             <td><label for="onderwerp">Onderwerp</label></td>   
         </tr>
         <tr>
-            <td> <input type="text" id="onderwerp" name="onderwerp" placeholder="Vul het onderwerp"></td>      
+            <td> <input type="text" id="onderwerp" name="onderwerp" placeholder="Vul het onderwerp in"></td>      
         </tr>    
         <tr>
-            <td> <textarea id="stelVraag" name="stelVraag" placeholder="Vragen" rows="10" cols="30"></textarea></td>      
+            <td> <textarea id="stelVraag" name="stelVraag" placeholder="Heb je vragen?" rows="10" cols="30"></textarea></td>      
         </tr>      
         <tr>
         <td><input type="submit" name="verstuur" id="verstuur"></td>      
@@ -173,9 +176,6 @@
     </table>    
 </form>
     
-          
-          
-          
       </section>
       <!--pre footer-->
 <p>
@@ -185,8 +185,7 @@
         alt="Valide CSS!" />
     </a>
 </p>
-    
-      
+
     </div>
 </body>
 </html>

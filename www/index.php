@@ -38,9 +38,9 @@
     <p id="hText2">Kom leren programmeren op <span class="c1">M</span><span class="c3">ediacollege</span> 
           <span class="c1">A</span><span class="c3">msterdam</span></p>
       <!--temp-->
-    
+  
     <article id="hText3">
-        <ul>
+        <ul>a
           <li id="li1"><a>Info over de opleiding</a></li>
           <li><a href="#voorOpleiding" target="_blank">Vooropleiding</a></li>
           <li><a href="#">Info over MA</a></li>
@@ -135,10 +135,9 @@
   <source src="./video/interview/video1.mp4" type="video/ogg">
   Your browser does not support the video tag.
 </video>
-      
- <iframe width="520" height="260" src="https://www.youtube.com/embed/fhQfW5mlx8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      
-      
+ 
+ <iframe width="450" height="260" src="https://www.youtube.com/embed/fhQfW5mlx8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/145398347" width="520" height="260" frameborder="0" allowfullscreen></iframe>
       
 <section id="contactForm"> <span class="sec">&nbsp;</span>

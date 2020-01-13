@@ -62,9 +62,14 @@ $headers  .= "Content-type: text/html\r\n";
 $headers  .= "Bericht: Geslaagd\r\n";
      
     
-  //  $message =$row['stelVraag'];
         
+//oud mail($to, $subject, $message, $headers);
+//OK echo $row['email'];
+mail($row['email'],$row['onderwerp'], $row['stelVraag'], $row['naam']);
+
 mail($to, $subject, $message, $headers);
+>>>>>>> ontwikkeling
+
 
 } 
 ?>

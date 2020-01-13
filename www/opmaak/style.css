@@ -1,86 +1,6 @@
 *{margin:0 auto;}
 body
 {
-font-family: 'Roboto', sans-serif, 'Arial';
-font-size: 12px;
-height:100vh; width: 100vw;
-/*background-color: rgba(255, 255, 255, .7);
-background-image: url('../splash/transp.png'), url('../splash/grid.png');
-*/}
-
-#wrapper{
-  width:1500px;
-  margin: 0 auto;
-}
-header{
-
-
-}
-h1, h2, h3{font-size: 1rem;}
-
-header figure, #header1{
-
-
-}
-
-#headerImgLarge
-{
-
-}
-
-#MedA{
-  position:absolute;
-  margin-top:120px;
-}
-
-#komLerenBij{
-clear:left;
-display:inline;
-background-color:red;
-position: relative;
-margin-top:60px;
-margin-left:720px;
-float:left;
-}
-
-#komLerenBijM{
-clear:left;float:left;
-margin-top:80px;
-margin-left:400px;
-}
-
-ul{
-margin-left:520px;float:left;
-margin-top: 60px;
-}
-
-li{display:inline;}
-li, #li1:before{margin-left:1px;}
-li:nth-child(1n+2){margin-left:39px;}
-#MedA{margin-left:100px;}
-
-main{width:100vw;}
-main figure{margin-top:70px;background-color:red;}
-main figure, img #mainImg{width: 100vw;}
-#contactButton{clear:left;float:left;
-margin-left:200px;
-}
-
-input[type="button"]
-{
-text-align: center;
-border-radius: 5%;
-padding:40px 40px 10px 55px;
-text-align: center;
-background-color: red;
-}
-
-#buttonAanmelden{margin:38px 0 0 400px;}
-#voorOpleiding{clear:left;float:left;}
-
-body
-{
-
 width:81vw;height:100vh;
 font-family: 'Roboto', sans-serif, 'Arial';
 font-size: 12px;
@@ -130,7 +50,7 @@ header figure, .header2{display: inline;}
 ul{clear:left;display:inline;}
 li{margin:0 0 0 400px;
 float:left;display:inline;
-} 
+}
 li:nth-child(1n+2){margin-left:39px;}
 
 li a{
@@ -199,6 +119,7 @@ padding: 8px;
 content:"\00a0";
 }
 #jumboTron{
+
 }
 
 #jumboTron, figure #full img{
@@ -206,7 +127,7 @@ height: 20%;
 }
 
 #full > img{
-width:80.9vw;
+width:70vw;
 }
 
 .jumboTron::after{
@@ -229,33 +150,20 @@ border-radius: 5%;
 
 #buttonAanmelden{margin:38px 0 0 400px;}
 #voorOpleiding{clear:left;
-
 margin-top:10px;
 margin-left:100px;
 }
 
 #voorOpleiding::after{margin-top:40px;}
-
-#contentNews{clear:left; float:left;
-margin-top:18px;margin-left:100px;
-background-color: green;
-width: 86vw;
-}
-
 #contentNews{clear:left; 
 margin-top:18px;
 background-color: green;
 width: auto;
-
 height:200px;
 }
 
 .voorOpleidingText{
-
-  clear:left;float:left;
-
   clear:left;
-
   margin-left:100px;margin-top:20px;
   width:900px; height: auto;
   background-color:white;
@@ -263,11 +171,7 @@ height:200px;
 
 #locSchool
 {
-
-clear:left;float:left;
-
 clear:left;
-
 margin:100px 0 0 100px;
 }
 
@@ -275,11 +179,7 @@ margin:100px 0 0 100px;
 
 
 #minAfbeeldingen{
-
-  clear:left;float:left;
-
   clear:left;
-
   margin:0 0 0 100px;
   width: 1000px; height:auto;
   background-color:green;
@@ -291,11 +191,7 @@ margin:100px 0 0 100px;
 width:inherit;}
 #minAfbeeldingen > article{
   border: 1px red solid;
-
-    float:left;
-
     
-
     width:192px;height:auto;
     background-color:green;
 }
@@ -306,26 +202,12 @@ margin-right:100px;
 
 #minAfbeeldingen > article
 {
-
-clear:left;float:left;
-
 clear:left;
-
 margin:1px;
 border:solid black;
 width:auto;
 height:60px;
 }
-
-.abc
-{
-}
-
-.articleImg
-{
-
-}
-
 
 table{
 clear:left;  
@@ -336,10 +218,6 @@ text-align: left;
 margin-top:20px;
 }
 
-.sec
-{
-margin-bottom:150px;    
-}
 form{
 
 }

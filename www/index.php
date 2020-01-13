@@ -1,3 +1,4 @@
+  
 <!DOCTYPE html>
 <html lang="nl">
 <head>
@@ -13,7 +14,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
 </head>
-
 <body><noscript>Please enable Javascript in order to fully enjoy this webpage</noscript>
   <div id="wrapper">
   <header>
@@ -23,7 +23,6 @@
             Amsterdam</figcaption>
     </figure>
       
-
       
       <figure class="header2">
       <img src="https://www.ma-web.nl/media/filer_public_thumbnails/filer_public/ea/29/ea29903f-3fd9-461e-92f0-5af745d6dc19/ma_education_contact_header.png__910x440_q85_box-0,0,1280,401_crop_subsampling-2_upscale.png" alt="Schoolplein" width="1100" height="300">
@@ -50,7 +49,6 @@
         </ul>
     </article>
 </section>
-
       
       <figure id="schrijfIn">
         <a href="http://www.ma-web.nl" target="blank">
@@ -110,7 +108,6 @@
        <figcaption>Front &#47; Backend leren</figcaption>
   </figure>
 </div><br/><br/>
-
   
 <div class="flexcontainer">      
   <figure>
@@ -131,59 +128,56 @@
   <figure>
         <img src="./splash/icons/loop.JPG" alt="loop">
        <figcaption>Eat sleep code repeat</figcaption>
-  </figure>
+  </figure> <span class="sec">&nbsp;</span>
 </div>
-      <br>
     
-
- 
-<section id="contactForm">
+      <video width="320" height="240" controls>
+  <source src="./video/interview/video1.mp4" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+      
+ <iframe width="520" height="260" src="https://www.youtube.com/embed/fhQfW5mlx8s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/145398347" width="520" height="260" frameborder="0" allowfullscreen></iframe>
+      
+<section id="contactForm"> <span class="sec">&nbsp;</span>
     <form action="login.php" method="GET"> 
     <table> 
         <tr>
             <th id="contact">Contact<br/></th>
         </tr>
-
         <tr>
             <td><label for="naam">Volledige naam</label></td>   
         </tr>
-
         <tr>        
             <td> <input type="text" id="naam" name="naam" placeholder="Vul uw volledige naam in"></td>      
         </tr>      
-
         <tr>
             <td><label for="mail">E-Mail adres</label></td> 
         </tr>
-
         <tr>
             <td> <input type="text" id="mail" name="mail" placeholder="Vul uw emailadres in"></td>      
         </tr>    
-
         <tr>
             <td><label for="onderwerp">Onderwerp</label></td>   
         </tr>
-
         <tr>
             <td> <input type="text" id="onderwerp" name="onderwerp" placeholder="Vul het onderwerp"></td>      
         </tr>    
-
         <tr>
             <td> <textarea id="stelVraag" name="stelVraag" placeholder="Vragen" rows="10" cols="30"></textarea></td>      
         </tr>      
-
         <tr>
         <td><input type="submit" name="verstuur" id="verstuur"></td>      
         </tr> 
     </table>    
 </form>
     
-
           
           
           
       </section>
-
       <!--pre footer-->
 <p>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2F30168.hosts2.ma-cloud.nl%2Fbewijzenmap%2Fperiode2.2%2Ffro%2Fproject2%2Fwww%2F&profile=css3svg&usermedium=all&warning=2&vextwarning=false&lang=nl" target="_blank">
@@ -196,6 +190,4 @@
       
     </div>
 </body>
-
-
 </html>

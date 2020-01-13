@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <title>Project Promo</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="Leroy Andrade">
+    <meta name="content" content="">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+  <link rel="stylesheet" type="text/css" href="./opmaak/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+</head>
+
+<body><noscript>Please enable Javascript in order to fully enjoy this webpage</noscript>
+  <div id="wrapper">
+  <header>
+    <figure class="header1">
+      <img src="./splash/MA.png" height="100" alt="logo Mediacollege">
+        <figcaption class="hRelative1">Mediacollege<br/>
+            Amsterdam</figcaption>
+    </figure>
+      
+
+      
+      <figure class="header2">
+      <img src="https://www.ma-web.nl/media/filer_public_thumbnails/filer_public/ea/29/ea29903f-3fd9-461e-92f0-5af745d6dc19/ma_education_contact_header.png__910x440_q85_box-0,0,1280,401_crop_subsampling-2_upscale.png" alt="Schoolplein" width="1100" height="300">
+    </figure>
+      
+      
+      <p id="hText1">Leer programmeren bij <span class="c1">M</span><span class="c2">ediacollege</span> 
+          <span class="c1">A</span><span class="c2">msterdam</span></p>
+ </header>
+   
+      
+<section id="webpagina">   
+    <p id="hText2">Kom leren programmeren op <span class="c1">M</span><span class="c3">ediacollege</span> 
+          <span class="c1">A</span><span class="c3">msterdam</span></p>
+      <!--temp-->
+    
+    <article id="hText3">
+        <ul>
+          <li id="li1"><a>Info over de opleiding</a></li>
+          <li><a href="#voorOpleiding" target="_blank">Vooropleiding</a></li>
+          <li><a href="#">Info over MA</a></li>
+          <li><a href="#">Video's</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+    </article>
+</section>
+
+      
+      <figure id="schrijfIn">
+        <a href="http://www.ma-web.nl" target="blank">
+            <img src="./splash/schrijfJeIn1.jpg" alt="inschrijven"> 
+        </a>
+        </figure>
+ <h1 id="vooropleiding">Info over de opleiding &#47;vooropleiding &#47; schrijf je nu in</h1>
+      
+      
+      <div class="flexcontainer">
+	<main> 
+		<h2>Waarom programmeren&#63;</h2>
+		<p>Als mediadeveloper programmeer en onderhoud je (mobiele) websites, apps en webapplicaties. Je leert niet alleen veel over technologie en programmeren, maar ook over de basis van digitale vormgeving. Want een product moet niet alleen goed werken, ook het idee erachter moet goed zijn en het product moet er aantrekkelijk uitzien. Ook leer je samenwerken met mediavormgevers, want zij nemen later de vormgeving voor hun rekening.</p>
+		<!--<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti modi eaque est minus nesciunt, nam quisquam nobis pariatur non, voluptate temporibus veritatis dicta numquam vero harum sit mollitia cumque inventore?</p>-->
+	</main>
+	<div class="zijkolom1"> 
+		<h3>Wat leer je&#63;</h3>
+		<p>Als je in staat bent een ingewikkeld probleem uit te pluizen en op te lossen, verbanden tussen gegevens herkent en een goed ruimtelijk inzicht hebt, dan is deze opleiding misschien iets voor jou. Daarnaast vind je het leuk om samen te werken en je werk af te stemmen met anderen en ben je altijd op zoek naar nieuwe (technische) mogelijkheden in jouw vakgebied..</p>
+	</div>
+	<div class="zijkolom2">
+		<h3>Hoe verder&#63;</h3>
+		<p>De mogelijkheden van webites en apps veranderen razendsnel. Werkgevers zitten te springen om professionals die thuis zijn in de technologie en die creatief zijn in het bedenken en bouwen van nieuwe functionaliteiten en toepassingen. De opleiding Mediadeveloper bereidt je hierop voor.</p>
+	</div>
+</div>
+    <br/><br/>
+    <section id="jumboTron">
+         <figure id="full">
+       <img src="./splash/jumboTron1.jpg" alt="computer">
+        </figure>
+    </section>
+      <br/><br/>
+   <span class="midSection"> </span>
+     
+<div class="flexcontainer">
+  <figure>
+        <img src="./splash/icons/laptop.JPG" alt="laptop">
+      <figcaption>Werken met de <br>nieuweste technieken</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/keyboard.JPG" alt="keyboard">
+      <figcaption>Communicatie <br/>met studenten</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/wereld.JPG" alt="wereld">
+       <figcaption>Kennis inzetten <br/>voor de wereld</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/leren.JPG" alt="leren">
+       <figcaption>Studeren met een doel</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/gast.JPG" alt="gast">
+       <figcaption>Front &#47; Backend leren</figcaption>
+  </figure>
+</div><br/><br/>
+
+  
+<div class="flexcontainer">      
+  <figure>
+        <img src="./splash/icons/klok.JPG" alt="klok">
+        <figcaption>Baan garantie</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/pop.JPG" alt="pop">
+       <figcaption>Toegankelijk</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/slot.JPG" alt="slot">
+       <figcaption>Doorzettingsvermogen</figcaption>
+  </figure>
+  
+  <figure>
+        <img src="./splash/icons/loop.JPG" alt="loop">
+       <figcaption>Eat sleep code repeat</figcaption>
+  </figure>
+</div>
+      <br>
+    
+
+ 
+<section id="contactForm">
+    <form action="login.php" method="GET"> 
+    <table> 
+        <tr>
+            <th id="contact">Contact<br/></th>
+        </tr>
+
+        <tr>
+            <td><label for="naam">Volledige naam</label></td>   
+        </tr>
+
+        <tr>        
+            <td> <input type="text" id="naam" name="naam" placeholder="Vul uw volledige naam in"></td>      
+        </tr>      
+
+        <tr>
+            <td><label for="mail">E-Mail adres</label></td> 
+        </tr>
+
+        <tr>
+            <td> <input type="text" id="mail" name="mail" placeholder="Vul uw emailadres in"></td>      
+        </tr>    
+
+        <tr>
+            <td><label for="onderwerp">Onderwerp</label></td>   
+        </tr>
+
+        <tr>
+            <td> <input type="text" id="onderwerp" name="onderwerp" placeholder="Vul het onderwerp"></td>      
+        </tr>    
+
+        <tr>
+            <td> <textarea id="stelVraag" name="stelVraag" placeholder="Vragen" rows="10" cols="30"></textarea></td>      
+        </tr>      
+
+        <tr>
+        <td><input type="submit" name="verstuur" id="verstuur"></td>      
+        </tr> 
+    </table>    
+</form>
+    
+
+          
+          
+          
+      </section>
+
+      <!--pre footer-->
+<p>
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2F30168.hosts2.ma-cloud.nl%2Fbewijzenmap%2Fperiode2.2%2Ffro%2Fproject2%2Fwww%2F&profile=css3svg&usermedium=all&warning=2&vextwarning=false&lang=nl" target="_blank">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valide CSS!" />
+    </a>
+</p>
+    
+      
+    </div>
+</body>
+
+
+</html>

@@ -1,0 +1,349 @@
+*{margin:0 auto;}
+
+body{
+font-family: 'Roboto', sans-serif, 'Arial';
+font-size: 12px;
+height:100vh; width: 1070px;
+/*background-color: rgba(255, 255, 255, .7);
+background-image: url('../splash/transp.png'), url('../splash/grid.png');
+*/}
+
+#wrapper{
+width:1500px;
+margin: 0 auto;
+}
+header{
+
+
+}
+h1, h2, h3{font-size: 1rem;}
+
+header figure, #header1{
+
+
+}
+
+#headerImgLarge
+{
+
+}
+
+#MedA{
+  position:absolute;
+  margin-top:120px;
+}
+
+#komLerenBij{
+clear:left;
+display:inline;
+background-color:red;
+position: relative;
+margin-top:60px;
+margin-left:720px;
+float:left;
+}
+
+#komLerenBijM{
+clear:left;float:left;
+margin-top:80px;
+margin-left:400px;
+}
+
+ul{
+margin-left:520px;float:left;
+margin-top: 60px;
+}
+
+li{display:inline;}
+li, #li1:before{margin-left:1px;}
+li:nth-child(1n+2){margin-left:39px;}
+#MedA{margin-left:100px;}
+
+main{width:100vw;}
+main figure{margin-top:70px;background-color:red;}
+main figure, img #mainImg{width: 100vw;}
+#contactButton{clear:left;float:left;
+margin-left:200px;
+}
+
+input[type="button"]
+{
+text-align: center;
+border-radius: 5%;
+padding:40px 40px 10px 55px;
+text-align: center;
+background-color: red;
+}
+
+#buttonAanmelden{margin:38px 0 0 400px;}
+#voorOpleiding{clear:left;float:left;}
+
+body
+{
+
+width:81vw;height:100vh;
+font-family: 'Roboto', sans-serif, 'Arial';
+font-size: 12px;
+    /*
+background-color: rgba(255, 255, 255, .7);
+background-image: url('../splash/transp.png'), url('../splash/grid.png');
+*/
+}
+
+#wrapper{
+width:inherit;
+}
+
+header{
+
+display:flex;
+}
+.hRelative1{margin-top:40px;}
+
+#hText1{
+font-size: 28px;
+position: absolute;
+margin: 220px 0 0 700px;
+}
+
+.c1{
+color:pink
+}
+.c2{
+color:#fff;
+}
+
+.c3{
+color:black
+}
+#hText2{
+font-size: 28px;
+margin: 60px 0 0 400px;
+}
+
+#hText3{margin-left:20px}
+
+h1, h2, h3{font-size: 1rem;}
+header figure, .header1{margin-left:0px;}
+header figure, .header2{display: inline;}
+
+
+ul{clear:left;display:inline;}
+li{margin:0 0 0 400px;
+float:left;display:inline;
+}
+li:nth-child(1n+2){margin-left:39px;}
+
+li a{
+padding:10px;
+color:black;
+text-decoration: none;
+border-radius: 5%;
+}
+
+#li1 a:hover{
+text-decoration: none;
+color: pink;
+padding:10px;
+background-color:black;
+}
+
+li a:hover{
+text-decoration: none;
+color: pink;
+padding:10px;
+background-color:black;
+}
+li, a:visited{
+text-decoration: none;
+color: #000;
+}
+#vooropleiding{margin-top:60px;position:relative;}
+
+#schrijfIn
+{margin-top:60px;margin-left:20vw;}
+
+#MedA{margin-left:100px;}
+
+/*Na inschrijf button*/
+.flexcontainer {
+display: flex;
+flex-flow:wrap row;
+}
+/*
+.flexcontainer > figure:hover{
+     background: linear-gradient(to top, #000000 3%, #ff66ff 100%);
+}*/
+.flexcontainer > img{
+opacity: .5;
+}
+.flexcontainer {   width:59vw;
+box-shadow: .2em .2em .3em 0 rgba(0,0,0,.5);
+}
+main {flex: 20%;
+
+
+}
+.zijkolom1 {flex: 20%;
+background-color: pink;
+}
+.zijkolom2 {flex: 15%;
+
+}
+/*einde 3 kolom*/
+main, div[class^="zij"] {
+padding: 8px;
+}
+
+/*jumbotron1 foto*/
+#jumboTron::before{
+content:"\00a0";
+}
+#jumboTron{
+}
+
+#jumboTron, figure #full img{
+height: 20%;
+}
+
+#full > img{
+width:80.9vw;
+}
+
+.jumboTron::after{
+position: relative;
+margin-bottom:20vh;
+}
+/*
+main{width:100vw;}
+main figure{margin-top:70px;
+background-color:red;}
+main figure, img #mainImg{width: 100vw;}
+#contactButton{clear:left;
+margin-left:200px;
+}
+*/
+input[type="text"]
+{
+border-radius: 5%;
+}
+
+#buttonAanmelden{margin:38px 0 0 400px;}
+#voorOpleiding{clear:left;
+
+margin-top:10px;
+margin-left:100px;
+}
+
+#voorOpleiding::after{margin-top:40px;}
+
+#contentNews{clear:left; float:left;
+margin-top:18px;margin-left:100px;
+background-color: green;
+width: 86vw;
+}
+
+#contentNews{clear:left;
+margin-top:18px;
+background-color: green;
+width: auto;
+
+height:200px;
+}
+
+.voorOpleidingText{
+
+  clear:left;float:left;
+
+  clear:left;
+
+  margin-left:100px;margin-top:20px;
+  width:900px; height: auto;
+  background-color:white;
+}
+
+#locSchool
+{
+
+clear:left;float:left;
+
+clear:left;
+
+margin:100px 0 0 100px;
+}
+
+#locSchool figure, #locSchoolFigure{width:1300px;}
+
+
+#minAfbeeldingen{
+
+  clear:left;float:left;
+
+  clear:left;
+
+  margin:0 0 0 100px;
+  width: 1000px; height:auto;
+  background-color:green;
+
+}
+/*
+.articleImg{
+  height: inherit;
+width:inherit;}
+#minAfbeeldingen > article{
+  border: 1px red solid;
+
+    float:left;
+
+
+
+    width:192px;height:auto;
+    background-color:green;
+}
+/*
+#minAfbeeldingen::after, article{
+margin-right:100px;
+}*/
+
+#minAfbeeldingen > article
+{
+
+clear:left;float:left;
+
+clear:left;
+
+margin:1px;
+border:solid black;
+width:auto;
+height:60px;
+}
+
+.abc
+{
+}
+
+.articleImg
+{
+
+}
+
+
+table{
+clear:left;
+text-align: left;
+}
+#contact
+{clear:left;
+margin-top:20px;
+}
+
+.sec
+{
+margin-bottom:100px;
+}
+form{
+
+}
+label{
+    display:block;
+}

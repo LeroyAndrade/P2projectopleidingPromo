@@ -14,3 +14,28 @@ if(@mail($emailRecipient, $subject, $message, $headers))
   echo "E-Mail niet verstuurd, probeer het later opnieuw";
 }
  ?>
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <style>
+    body{
+      width:80vw;
+      margin: 50vh 50vw;
+    }
+    article{
+      margin: 0 auto;
+    }
+    </style>
+    <title></title>
+  </head>
+  <body>
+    <section>
+      <article>
+          <img src="./splash/meisje.png" width="100" height="100" alt="meisje">
+          <p> Vanwege enorme drukte zullen wij binnen drie dagen contact met je opnemen.</p>
+      </article>
+    </section>
+
+  </body>
+</html>
